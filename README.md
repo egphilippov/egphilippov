@@ -1,4 +1,4 @@
-### Hi there 👋
+Academical Sciences & Humanistic Control Engineering 💚
 
 Catalyzing the Humanistic Control Network project. A placeholder Github Organization: https://github.com/HumanisticControlNetwork.
 
