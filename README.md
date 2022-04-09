@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Catalyzing the Humanistic Control Network project; https://github.com/HumanisticControlNetwork.
+
+My Facebook link: https://www.facebook.com/egphilippov/.
+
 <!--
 **egphilippov/egphilippov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
