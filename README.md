@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Catalyzing the Humanistic Control Network project; https://github.com/HumanisticControlNetwork.
+Catalyzing the Humanistic Control Network project. A placeholder Github Organization: https://github.com/HumanisticControlNetwork.
 
 My Facebook link: https://www.facebook.com/egphilippov/.
 
